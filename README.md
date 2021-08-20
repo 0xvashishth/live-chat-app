@@ -1,23 +1,27 @@
-## Live-chat-application
-## Installing
+### Live-chat-application
 
-Upload **vasu.sql** to your server / localhost (check **database_connection.php** for details).
+<p align="center">
+    <a href="https://github.com/vasu-1/Live-chat-application">
+      <img alt="GitHub all releases" src="https://img.shields.io/github/downloads/vasu-1/Live-chat-application/total?label=Downloads&logo=github">
+    </a>
+    <a href="https://github.com/vasu-1/Live-chat-application/issues">
+      <img alt="GitHub issues" src="https://img.shields.io/github/issues/vasu-1/Live-chat-application?logo=github">
+    </a>
+    <a href="https://github.com/vasu-1/Live-chat-application/commits">
+      <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/vasu-1/Live-chat-application?logo=github">
+    </a>
+    <a href="https://github.com/vasu-1/Live-chat-application/pulls">
+      <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/vasu-1/Live-chat-application?logo=github">
+    </a>
+   </p>
+
+---
 
 
-### Todos
+## Your username and password are :- 
 
-Open database_connection.php 
- - Line 2: (connection to database)
-Change it using your database name, username and password. 
- - Line 3:
- ``php
-         date_default_timezone_set('Your location goes here');
-``
-Change your location using (http://php.net/manual/en/timezones.php) this link. 
-
-###
-" Your username and password are :- 
-
-(1)  user         user
-(2)  admin	 admin
-(3)  test         test  "
+(1)  user         user 
+</br>
+(2)  admin	       admin
+</br>
+(3)  test         test
